@@ -1,4 +1,6 @@
 
 proto-go-course/proto-go-course
 proto-go-course/simple.bin
+protoc/simple.pb
+protoc/simple.txt
 
