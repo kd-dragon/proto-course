@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-package example.dummy;
-
-option go_package = "github.com/kd-dragon/proto-course/proto-go-course/proto";
-
-message Dummy {
-  uint32 id = 1;
-}
