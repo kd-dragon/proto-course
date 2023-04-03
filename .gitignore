@@ -3,4 +3,4 @@ proto-go-course/proto-go-course
 proto-go-course/simple.bin
 protoc/simple.pb
 protoc/simple.txt
-
+grpc-go-course/bin
